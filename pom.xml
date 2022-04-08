@@ -23,7 +23,7 @@
       <scope>compile</scope>
     </dependency>
         <dependency>
-      <groupId>com.google.guava</groupId>
+      <groupIdcom.google.guava</groupId>
       <artifactId>guava</artifactId>
       <version>${gauva.version}</version>
     </dependency>
